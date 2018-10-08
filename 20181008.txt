@@ -1,0 +1,10 @@
+2018/10/08(月)勉強
+
+GitHub Flavored Markdown(GMF)
+https://github.github.com/gfm/
+https://qiita.com/qurage/items/a2f3f52c60d7c64b2e08
+
+標準Markdown
+https://ja.wikipedia.org/wiki/Markdown
+テキストからHTMLを生成するための記法
+
